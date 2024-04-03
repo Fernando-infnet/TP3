@@ -1,0 +1,5 @@
+com/example/demo/api/controller/DemoApplicationController.class
+com/example/demo/DemoApplication.class
+com/example/demo/api/model/Escola.class
+com/example/demo/service/DemoApplicationService.class
+com/example/demo/api/model/Professor.class
